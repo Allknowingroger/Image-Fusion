@@ -1,0 +1,5 @@
+{
+  "name": "Image Fusion",
+  "description": "An application to combine multiple images with a text prompt using AI.",
+  "requestFramePermissions": []
+}
